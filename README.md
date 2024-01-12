@@ -1,5 +1,5 @@
 # Django-Poll-App
-"QuickPolls" is a lightweight polling app developed in Django that empowers users to effortlessly create and conduct polls.
+This app is a lightweight polling app developed in Django that empowers users to effortlessly create and conduct polls.
 
 Key Features:
 
@@ -19,4 +19,4 @@ Customizable Themes: While developed within a short timeframe, QuickPolls allows
 
 Security: Even with a rapid development cycle, QuickPolls prioritizes security. Standard security measures are implemented to protect user data and ensure the integrity of poll results.
 
-QuickPolls is an ideal solution for individuals, organizations, or businesses looking to conduct polls swiftly and efficiently. Its minimalistic approach to functionality and design ensures that users can easily create, manage, and participate in polls without unnecessary complications.
+This app is an ideal solution for individuals, organizations, or businesses looking to conduct polls swiftly and efficiently. Its minimalistic approach to functionality and design ensures that users can easily create, manage, and participate in polls without unnecessary complications.
