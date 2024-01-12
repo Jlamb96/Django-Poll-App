@@ -23,7 +23,7 @@ Real-time Results: QuickPolls provides real-time results to participants after t
 
 Minimalistic Authentication: To expedite the setup process, QuickPolls employs a minimalistic authentication system, allowing users to participate in polls without the need for extensive user registration.
 
-Customizable Themes: While developed within a short timeframe, QuickPolls allows users to personalize the appearance of their polls with customizable themes. Admins can choose from a selection of predefined themes to enhance the visual appeal.
+Customizable Themes: While developed within a short timeframe, QuickPolls allows users to personalize the appearance of their polls with customizable themes.
 ![question info](https://github.com/Jlamb96/Django-Poll-App/assets/103245650/0eb77402-a421-415b-b657-e851559a86eb)
 
 
