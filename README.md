@@ -12,6 +12,7 @@ Responsive Design: QuickPolls comes with a responsive design, ensuring a seamles
 
 ![question](https://github.com/Jlamb96/Django-Poll-App/assets/103245650/c77c89fe-42ec-477e-b721-684d830448cb)
 
+
 Intuitive User Interface: The user interface is designed for simplicity and clarity. Participants can quickly navigate through polls, view questions, and submit their responses without unnecessary complexity.
 
 ![user and filter](https://github.com/Jlamb96/Django-Poll-App/assets/103245650/ec4bf188-7c5c-41b5-9739-7b7bdffacc7c)
